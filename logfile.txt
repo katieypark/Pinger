@@ -1,0 +1,21 @@
+Pinging google.com with 5 bytes of data 'hello'
+trying to create raw socket
+sending packet
+correct packet recieved
+Tried to send ping to google.com
+Reply recieved ttl = 63time expended = 0.0289409160614
+trying to create raw socket
+sending packet
+correct packet recieved
+Tried to send ping to google.com
+Reply recieved ttl = 63time expended = 0.0246639251709
+trying to create raw socket
+sending packet
+correct packet recieved
+Tried to send ping to google.com
+Reply recieved ttl = 63time expended = 0.0240831375122
+trying to create raw socket
+sending packet
+correct packet recieved
+Tried to send ping to google.com
+Reply recieved ttl = 63time expended = 0.0254669189453
